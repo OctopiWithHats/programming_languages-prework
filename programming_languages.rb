@@ -7,5 +7,5 @@ def reformat_languages(languages)
   
   languages.each do |language, type|
     if new_hash.has_key?(language)
-      
+      new_hash[]
 end
